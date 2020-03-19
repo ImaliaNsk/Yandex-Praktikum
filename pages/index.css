@@ -1,0 +1,29 @@
+@import url('../blocks/header/header.css');
+@import url('../blocks/lead/lead.css');
+@import url('../blocks/intro/intro.css');
+@import url('../blocks/photo-grid/photo-grid.css');
+@import url('../blocks/places/places.css');
+@import url('../blocks/video/video.css');
+@import url('../blocks/comments/comments.css');
+@import url('../blocks/common/titles.css');
+@import url('../blocks/common/overlay.css');
+@import url('../blocks/cover/cover.css');
+@import url('../blocks/footer/footer.css');
+@import url('../fonts/inter.css');
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+	  src: url("../fonts/Inter-Thin-BETA.woff2") format("woff2"), url("../fonts/Inter-Thin-BETA.woff") format("woff");
+}
+
+/*body{
+  background: #2A2C2F;
+}*/
+.page{
+  max-width: 1440px;
+  margin: 0 auto;
+  background: #2A2C2F;
+  color: #FFFFFF;
+  font-family: 'Inter';
+}

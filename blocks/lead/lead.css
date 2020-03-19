@@ -1,0 +1,34 @@
+.lead{
+  margin: 48px 228px 0;
+}
+
+.lead__title{
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 93px;
+  text-align: center;
+  margin: 0 auto 36px;
+  width: 782px;
+}
+
+.lead__subtitle{
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+  font-weight: normal;
+  width: 583px;
+  margin: auto;
+}
+
+.lead__background{
+  margin-top: 70px;
+  width: 100%;
+  height: 100%;
+}
+
+.lead__caption{
+  text-transform: uppercase;
+  font-size: 10px;
+  line-height: 12px;
+  letter-spacing: 0.15em;
+}

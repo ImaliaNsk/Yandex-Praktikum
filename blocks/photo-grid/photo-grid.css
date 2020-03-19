@@ -1,0 +1,11 @@
+.photo-grid{
+  margin: 92px auto 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.photo-grid__item {
+    margin: 8px 8px 8px 8px;
+    width: 284px;
+}

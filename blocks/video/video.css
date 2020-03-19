@@ -1,0 +1,24 @@
+@import url(./__item/video__item.css);
+
+.video {
+    padding-top: 30px;
+    margin: 0 128px;
+}
+
+.video__title{
+    width: 800px;
+    margin: auto;
+
+}
+
+.video__subtitle{
+  width: 640px;
+  margin: 48px auto;
+}
+
+.video__container{
+  width: 1184;
+  display: flex;
+  padding-top: 24px;
+  justify-content: space-between;
+}

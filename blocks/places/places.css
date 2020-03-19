@@ -1,0 +1,60 @@
+.places {
+    margin: 0 228px;
+    padding-top: 92px;
+}
+
+.place{
+  margin-bottom: 72px;
+}
+
+.place__top-info{
+  display: flex;
+}
+
+.place__title{
+  width: 460px;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 65px;
+  margin: 0;
+}
+
+.place__url{
+  margin-left: 43px;
+  align-self: flex-end;
+}
+
+.place__url-heading{
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 0.2em;
+  color: #aaa;
+  text-transform: uppercase;
+}
+
+.place__website{
+  font-size: 18px;
+  line-height: 30px;
+  text-decoration-line: underline;
+  color: #fff;
+}
+
+.place__content{
+  display: flex;
+  margin-top: 60px;
+}
+
+.place__image{
+  height: 460px;
+  width: 460px;
+}
+
+.place__description{
+  margin-left: 40px;
+}
+
+.place__text{
+  margin-top: auto;
+  font-size: 18px;
+  line-height: 30px;
+}

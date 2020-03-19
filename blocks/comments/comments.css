@@ -1,0 +1,41 @@
+.comments{
+  margin: 102px 128px;
+}
+
+.comments__title{
+  width: 800px;
+  margin: auto;
+}
+
+.comments__subtitle{
+  width: 640px;
+  margin: 48px auto;
+}
+
+.comments__container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.comment{
+  flex: 1;
+  margin-right: 18px;
+}
+
+.comment__image{
+  width: 97px;
+  height: 97px;
+  border-radius: 50%;
+}
+
+.comment__quote{
+  font-size: 14px;
+  line-height: 24px;
+  margin: 47px 0 24px;
+}
+
+.comment__author{
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 24px;
+}
