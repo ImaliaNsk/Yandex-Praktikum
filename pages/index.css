@@ -31,3 +31,13 @@
   max-width: 1440px;
   margin: 0 auto;
 }
+
+@media screen and (max-width:1024px) {
+  .page__section {
+    max-width: none;
+    width: 100%;
+    padding: 0 40px;
+    box-sizing: border-box;
+  }
+  
+}
